@@ -1,0 +1,67 @@
+{
+    "Japanese":
+    [
+        {
+            "heading":"Why to learn japanese ?",
+            "descp":"Understanding the Japanese language will open your eyes to Japanese history, martial arts, entertainment, culture and fashion. "
+        }
+    
+    ],
+    "German":
+    [
+        {
+            "heading":"Why to learn german ?",
+            "descp":"German has the largest number of native speakers in the European Union (far more than English, Spanish, or French)"
+        }
+    
+    ],
+    "French":
+    [
+        {
+            "heading":"Why to learn french ?",
+            "descp":"French is the international language of cooking, fashion, theatre, the visual arts, dance and architecture. A knowledge of French offers access to great works of literature in the original French, as well as films and songs."
+        }
+    
+    ],
+    "Spanish":
+    [
+        {
+            "heading":"Why to learn spanish ?",
+            "descp":"By learning Spanish, you'll be better able to communicate with Spanish speakers. Latin American countries are our most important trading partners. Being able to speak Spanish greatly enhances your resume. If you are bilingual you are more competitive in the workplace."
+        }
+    
+    ],
+    "Chinese":
+    [
+        {
+            "heading":"Why to learn chinese ?",
+            "descp":"The study of the Chinese language opens the way to different important fields such as Chinese politics, economy, history or archaeology. But to study Chinese finally means to study a culture, a people."
+        }
+    
+    ],
+    "Marathi":
+    [
+        {
+            "heading":"Why to learn marathi ?",
+            "descp":"Marathi script is written in Devanagari script which is used in many languages. The Marathi language is an easy language to learn and it has its own grammar and literature. Marathi is used as a medium language in schools, colleges, and some universities in the state of Maharashtra in India."
+        }
+    
+    ],
+    "Sanskrit":
+    [
+        {
+            "heading":"Why to learn sanskrit ?",
+            "descp":"Sanskrit facilitates the study of other languages:Thus numerous words in the languages derived from these, such as English, French, Spanish, etc. also demonstrate parallels with Sanskrit. According to many scholars, an expert in Sanskrit can understand and master every other language easily."
+        }
+    
+    ],
+    "English":
+    [
+        {
+            "heading":"Why to learn english ?",
+            "descp":"Knowing English increases your chances of getting a good job in a multinational company within your home country or of finding work abroad."
+        }
+    
+    ]
+    
+}

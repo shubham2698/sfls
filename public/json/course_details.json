@@ -1,0 +1,199 @@
+{
+    "Japanese":[
+        {
+            "Level":"JAPANESE N5 LEVEL",
+            "CourseContent":"Read and understand typical expressions and sentences written in Hiragana, Katakana, and basic Kanji.\n Listen and comprehend conversations about topics regularly encountered in daily life and classroom situations and pick up necessary information from short conversations spoken slowly. ",
+            "Hours":"80"
+        },
+        {
+            "Level":"JAPANESE N4 LEVEL",
+            "CourseContent":"Read and understand passages on familiar daily topics written in basic vocabulary and Kanji.\nListen and comprehend conversations encountered in daily life and generally follow their contents, provided that they are spoken slowly.",
+            "Hours":"80"
+        },
+        {
+            "Level":"JAPANESE N3 LEVEL",
+            "CourseContent":"Read and understand written materials with specific contents concerning everyday topics. Grasp summary information such as newspaper headlines. Read slightly difficult writings encountered in everyday situations and understand the main points of the content if some alternative phrases are available to aid one's understanding.\n Listen and comprehend coherent conversations in everyday situations, spoken at near-natural speed, and is generally able to follow their contents as well as grasp the relationships among the people involved.",
+            "Hours":"80"
+        },
+        {
+            "Level":"JAPANESE N2 LEVEL",
+            "CourseContent":"Read materials written clearly on a variety of topics and comprehend their contents. Read written materials on general topics and follow their narratives as well as understand the intent of the writers.Comprehend orally presented materials such as coherent conversations and news reports, spoken at nearly natural speed in everyday situations as well as in a variety of settings, and is able to follow their ideas and comprehend their contents. Understand the relationships among the people involved and the essential points of the presented materials. ",
+            "Hours":"80"
+        },
+        {
+            "Level":"JAPANESE N1 LEVEL",
+            "CourseContent":"Read writings with logical complexity and/or abstract writings on a variety of topics. Read written materials with profound contents on various topics and follow their narratives as well as understand the intent of the writers comprehensively. Comprehend orally presented materials such as coherent conversations, news reports, and lectures, spoken at natural speed in a broad variety of settings, and follow the ideas and comprehend their contents comprehensively. Understand the details of the presented materials such as the relationships among the people involved, the logical structures, and the essential points.",
+            "Hours":"80"
+        }
+    ],
+    "German":[
+        {
+            "Level":"GERMAN A1 COURSE",
+            "CourseContent":"Understanding and communication of basic familiar expressions, self-introduction. Develop ability to respond to simple questions",
+            "Hours":"70"
+        },
+        {
+            "Level":"GERMAN A2 COURSE",
+            "CourseContent":"Understanding and communication of daily situations related to personal and professional. life Can speak briefly about simple everyday topics such as visiting a restaurant, departmental store, traveling.",
+            "Hours":"80"
+        },
+        {
+            "Level":"GERMAN B1 COURSE",
+            "CourseContent":"Requires a solid understanding of grammar topics covered in the previous levels. Develop the ability to communicate on all topics related to school, work and leisure time.",
+            "Hours":"90"
+        },
+        {
+            "Level":"GERMAN B2 COURSE",
+            "CourseContent":"Understanding of literary texts and articles from newspapers, magazines. Develop ability to confidently communicate with native speakers and express thoughts and opinions on various issues",
+            "Hours":"180"
+        },
+        {
+            "Level":"GERMAN C1 COURSE",
+            "CourseContent":"Develop an ability to understand complex text covering a variety of aspects including German literature and culture.  Ability to communicate spontaneously and clearly on the variety of topics using complex statements and grammatical structures.",
+            "Hours":"140"
+        }
+    ],
+    "French":[
+        {
+            "Level":"FRENCH A1 LEVEL",
+            "CourseContent":"Read and understand typical expressions and sentences written in Hiragana, Katakana, and basic Kanji.\n Listen and comprehend conversations about topics regularly encountered in daily life and classroom situations and pick up necessary information from short conversations spoken slowly. ",
+            "Hours":"80"
+        },
+        {
+            "Level":"FRENCH A2 LEVEL",
+            "CourseContent":"Read and understand passages on familiar daily topics written in basic vocabulary and Kanji.\nListen and comprehend conversations encountered in daily life and generally follow their contents, provided that they are spoken slowly.",
+            "Hours":"80"
+        },
+        {
+            "Level":"FRENCH B1 LEVEL",
+            "CourseContent":"Read and understand written materials with specific contents concerning everyday topics. Grasp summary information such as newspaper headlines. Read slightly difficult writings encountered in everyday situations and understand the main points of the content if some alternative phrases are available to aid one's understanding.\n Listen and comprehend coherent conversations in everyday situations, spoken at near-natural speed, and is generally able to follow their contents as well as grasp the relationships among the people involved.",
+            "Hours":"80"
+        },
+        {
+            "Level":"FRENCH B2 LEVEL",
+            "CourseContent":"Read materials written clearly on a variety of topics and comprehend their contents. Read written materials on general topics and follow their narratives as well as understand the intent of the writers.Comprehend orally presented materials such as coherent conversations and news reports, spoken at nearly natural speed in everyday situations as well as in a variety of settings, and is able to follow their ideas and comprehend their contents. Understand the relationships among the people involved and the essential points of the presented materials. ",
+            "Hours":"80"
+        },
+        {
+            "Level":"FRENCH C1 LEVEL",
+            "CourseContent":"Read writings with logical complexity and/or abstract writings on a variety of topics. Read written materials with profound contents on various topics and follow their narratives as well as understand the intent of the writers comprehensively. Comprehend orally presented materials such as coherent conversations, news reports, and lectures, spoken at natural speed in a broad variety of settings, and follow the ideas and comprehend their contents comprehensively. Understand the details of the presented materials such as the relationships among the people involved, the logical structures, and the essential points.",
+            "Hours":"80"
+        },
+        {
+            "Level":"FRENCH C2 LEVEL",
+            "CourseContent":"Read writings with logical complexity and/or abstract writings on a variety of topics. Read written materials with profound contents on various topics and follow their narratives as well as understand the intent of the writers comprehensively. Comprehend orally presented materials such as coherent conversations, news reports, and lectures, spoken at natural speed in a broad variety of settings, and follow the ideas and comprehend their contents comprehensively. Understand the details of the presented materials such as the relationships among the people involved, the logical structures, and the essential points.",
+            "Hours":"80"
+        }
+    ],
+    "Chinese":[
+        {
+            "Level":"CHINESE N5 LEVEL",
+            "CourseContent":"Read and understand typical expressions and sentences written in Hiragana, Katakana, and basic Kanji.\n Listen and comprehend conversations about topics regularly encountered in daily life and classroom situations and pick up necessary information from short conversations spoken slowly. ",
+            "Hours":"80"
+        },
+        {
+            "Level":"CHINESE N4 LEVEL",
+            "CourseContent":"Read and understand passages on familiar daily topics written in basic vocabulary and Kanji.\nListen and comprehend conversations encountered in daily life and generally follow their contents, provided that they are spoken slowly.",
+            "Hours":"80"
+        },
+        {
+            "Level":"CHINESE N3 LEVEL",
+            "CourseContent":"Read and understand written materials with specific contents concerning everyday topics. Grasp summary information such as newspaper headlines. Read slightly difficult writings encountered in everyday situations and understand the main points of the content if some alternative phrases are available to aid one's understanding.\n Listen and comprehend coherent conversations in everyday situations, spoken at near-natural speed, and is generally able to follow their contents as well as grasp the relationships among the people involved.",
+            "Hours":"80"
+        },
+        {
+            "Level":"CHINESE N2 LEVEL",
+            "CourseContent":"Read materials written clearly on a variety of topics and comprehend their contents. Read written materials on general topics and follow their narratives as well as understand the intent of the writers.Comprehend orally presented materials such as coherent conversations and news reports, spoken at nearly natural speed in everyday situations as well as in a variety of settings, and is able to follow their ideas and comprehend their contents. Understand the relationships among the people involved and the essential points of the presented materials. ",
+            "Hours":"80"
+        },
+        {
+            "Level":"CHINESE N1 LEVEL",
+            "CourseContent":"Read writings with logical complexity and/or abstract writings on a variety of topics. Read written materials with profound contents on various topics and follow their narratives as well as understand the intent of the writers comprehensively. Comprehend orally presented materials such as coherent conversations, news reports, and lectures, spoken at natural speed in a broad variety of settings, and follow the ideas and comprehend their contents comprehensively. Understand the details of the presented materials such as the relationships among the people involved, the logical structures, and the essential points.",
+            "Hours":"80"
+        }
+    ],
+    "Spanish":[
+        {
+            "Level":"SPANISH A1 LEVEL",
+            "CourseContent":"Read and understand typical expressions and sentences written in Hiragana, Katakana, and basic Kanji.\n Listen and comprehend conversations about topics regularly encountered in daily life and classroom situations and pick up necessary information from short conversations spoken slowly. ",
+            "Hours":"80"
+        },
+        {
+            "Level":"SPANISH A2 LEVEL",
+            "CourseContent":"Read and understand passages on familiar daily topics written in basic vocabulary and Kanji.\nListen and comprehend conversations encountered in daily life and generally follow their contents, provided that they are spoken slowly.",
+            "Hours":"80"
+        },
+        {
+            "Level":"SPANISH B1 LEVEL",
+            "CourseContent":"Read and understand written materials with specific contents concerning everyday topics. Grasp summary information such as newspaper headlines. Read slightly difficult writings encountered in everyday situations and understand the main points of the content if some alternative phrases are available to aid one's understanding.\n Listen and comprehend coherent conversations in everyday situations, spoken at near-natural speed, and is generally able to follow their contents as well as grasp the relationships among the people involved.",
+            "Hours":"80"
+        },
+        {
+            "Level":"SPANISH B2 LEVEL",
+            "CourseContent":"Read materials written clearly on a variety of topics and comprehend their contents. Read written materials on general topics and follow their narratives as well as understand the intent of the writers.Comprehend orally presented materials such as coherent conversations and news reports, spoken at nearly natural speed in everyday situations as well as in a variety of settings, and is able to follow their ideas and comprehend their contents. Understand the relationships among the people involved and the essential points of the presented materials. ",
+            "Hours":"80"
+        },
+        {
+            "Level":"SPANISH C1 LEVEL",
+            "CourseContent":"Read writings with logical complexity and/or abstract writings on a variety of topics. Read written materials with profound contents on various topics and follow their narratives as well as understand the intent of the writers comprehensively. Comprehend orally presented materials such as coherent conversations, news reports, and lectures, spoken at natural speed in a broad variety of settings, and follow the ideas and comprehend their contents comprehensively. Understand the details of the presented materials such as the relationships among the people involved, the logical structures, and the essential points.",
+            "Hours":"80"
+        },
+        {
+            "Level":"SPANISH C2 LEVEL",
+            "CourseContent":"Read writings with logical complexity and/or abstract writings on a variety of topics. Read written materials with profound contents on various topics and follow their narratives as well as understand the intent of the writers comprehensively. Comprehend orally presented materials such as coherent conversations, news reports, and lectures, spoken at natural speed in a broad variety of settings, and follow the ideas and comprehend their contents comprehensively. Understand the details of the presented materials such as the relationships among the people involved, the logical structures, and the essential points.",
+            "Hours":"80"
+        }
+    ],
+    "English":[
+        {
+            "Level":"ENGLISH GRAMMER",
+            "CourseContent":"Tenses, Active and Passive Voice, Parts of Speech",
+            "Hours":"80"
+        },
+        {
+            "Level":"ENGLISH COMMUNNICATION SKILLS",
+            "CourseContent":"Vocabulary Development, Sentence Construction, Application of Grammar and Vocabulary to communicate in different situations.",
+            "Hours":"80"
+        },
+        {
+            "Level":"PERSONALITY DEVELOPMENT & PUBLIC SPEAKING",
+            "CourseContent":"Extempore and Group Discussions, Presentation Techniques, Business Correspondence, Meeting Etiquette and Personal Interview techniques.",
+            "Hours":"80"
+        }
+    ],
+    "Marathi":[
+        {
+            "Level":"MARATHI GRAMMER",
+            "CourseContent":"Tenses, Active and Passive Voice, Parts of Speech",
+            "Hours":"80"
+        },
+        {
+            "Level":"MARATHI COMMUNNICATION SKILLS",
+            "CourseContent":"Vocabulary Development, Sentence Construction, Application of Grammar and Vocabulary to communicate in different situations.",
+            "Hours":"80"
+        },
+        {
+            "Level":"PUBLIC SPEAKING",
+            "CourseContent":"Extempore and Group Discussions, Presentation Techniques, Business Correspondence, Meeting Etiquette and Personal Interview techniques.",
+            "Hours":"80"
+        }
+    ],
+    "Sanskrit":[
+        {
+            "Level":"SANSKRIT GRAMMER",
+            "CourseContent":"Tenses, Active and Passive Voice, Parts of Speech",
+            "Hours":"80"
+        },
+        {
+            "Level":"SANSKRIT COMMUNNICATION SKILLS",
+            "CourseContent":"Vocabulary Development, Sentence Construction, Application of Grammar and Vocabulary to communicate in different situations.",
+            "Hours":"80"
+        },
+        {
+            "Level":"SANSKRIT SPEAKING",
+            "CourseContent":"Extempore and Group Discussions, Presentation Techniques, Business Correspondence, Meeting Etiquette and Personal Interview techniques.",
+            "Hours":"80"
+        }
+    ]
+
+}

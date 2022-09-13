@@ -1,0 +1,19 @@
+{
+    "whycs":[
+        {
+            "title":"Online Course",
+            "descp":"We provide online courses for those who can not attend lecture physically or working person or out of station students",
+            "image":"/images/homepage/tp1.png"
+        },
+        {
+            "title":"Physical Course",
+            "descp":"We provide online courses for those who can the attend lecture physically for better understanding of students or learner",
+            "image":"/images/homepage/tp2.png"
+        },
+        {
+            "title":"Personal Training",
+            "descp":"A personal trainer can teach you, motivate you, and help you get results ... Paige Waehner is a certified personal trainer",
+            "image":"/images/homepage/tp3.png"
+        } 
+    ]
+}

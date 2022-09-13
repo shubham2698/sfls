@@ -1,0 +1,36 @@
+{
+    "whycs":[
+        {
+            "title":"German",
+            "image":"/images/course-thumbnails/german.png"
+        },
+        {
+            "title":"French",
+            "image":"/images/course-thumbnails/french.png"
+        },
+        {
+            "title":"Chinese",
+            "image":"/images/course-thumbnails/chinese.png"
+        },
+        {
+            "title":"Spanish",
+            "image":"/images/course-thumbnails/spanish.png"
+        },
+        {
+            "title":"English",
+            "image":"/images/course-thumbnails/english.png"
+        },
+        {
+            "title":"Marathi",
+            "image":"/images/course-thumbnails/marathi.png"
+        },
+        {
+            "title":"Japanese",
+            "image":"/images/course-thumbnails/japanese.png"
+        },
+        {
+            "title":"Sanskrit",
+            "image":"/images/course-thumbnails/sanskrit.png"
+        } 
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "quicklinks":[
+        {
+            "Link":"Enquiry Form",
+            "URL":""
+        },
+        {
+            "Link":"Enrollment Form",
+            "URL":""
+        },
+        {
+            "Link":"Our Gallary",
+            "URL":""
+        },
+        {
+            "Link":"Testimonial",
+            "URL":""
+        },
+        {
+            "Link":"About Us",
+            "URL":""
+        }
+    ]
+}

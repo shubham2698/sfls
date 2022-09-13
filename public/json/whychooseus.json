@@ -1,0 +1,34 @@
+{
+    "whycs":[
+        {
+            "heading":"Unique Way Of Teaching",
+            "descp":"Student-centric learning approach to learning is a much more recent development, placing emphasis on students’ participation in the educational process. This approach considers students to be not just objects but subjects of education as well, and the teacher’s role is viewed as not as that of the instructor but facilitator and delegator.",
+            "image":"/images/homepage/audvsr.png"
+        },
+        {
+            "heading":"Audio Visual Representation",
+            "descp":"Research in cognitive psychology and educational theory seems to prove that audio visual learning is increasingly the best and most successful method of teaching any age of student, also encouraging them to make links, clarify their thoughts and interact in the classroom. All digital methods for learning will be available at institute.",
+            "image":"/images/homepage/audvsr.png"
+        },
+        {
+            "heading":"Limited Batch Size",
+            "descp":"Batch Size is important because it has an impact on quality of learning as well as competition during placements. Better Student-Teacher ratio and there is an assumption that that leads to better learning outcomes. It doesn't always work that way though. You are anyway never going to get personal attention in a business school.",
+            "image":"/images/homepage/limitedbatch.png"
+        },
+        {
+            "heading":"Mini Library",
+            "descp":"mini library",
+            "image":"/images/homepage/audvsr.png"
+        },
+        {
+            "heading":"Personal Attention",
+            "descp":"personal",
+            "image":"/images/homepage/audvsr.png"
+        },
+        {
+            "heading":"Lecture By Native Speakers",
+            "descp":"as",
+            "image":"/images/homepage/audvsr.png"
+        }
+    ]
+}
