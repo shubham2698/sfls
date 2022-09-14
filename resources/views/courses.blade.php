@@ -1,6 +1,6 @@
 @include('components.navbar')
 @include('components.footer')
-@include('components.gallary_components')
+@include('components.course_components')
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,9 +29,7 @@
 <body>
     @yield('navbar')
     @yield('page_loc')
-    @yield('gallary-style')
+    @yield('courses')
     @yield('footer')
-
-    
 </body>
 </html>

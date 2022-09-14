@@ -14,58 +14,55 @@
 <div class="container">
     <div class="gmenu">
         <button class="btn btn-default filter-button btn-gallary" data-filter="all">All</button>
-        <button class="btn btn-default filter-button btn-gallary" data-filter="hdpe">HDPE Pipes</a>
-        <button class="btn btn-default filter-button btn-gallary" data-filter="sprinkle">Sprinkle Pipes</button>
-        <button class="btn btn-default filter-button btn-gallary" data-filter="spray">Spray Nozzle</button>
-        <button class="btn btn-default filter-button btn-gallary" data-filter="irrigation">Irrigation Pipes</button>
+        <button class="btn btn-default filter-button btn-gallary" data-filter="Classroom">Classroom</button>
+        <button class="btn btn-default filter-button btn-gallary" data-filter="sit">Student International Tour</a>
+        <button class="btn btn-default filter-button btn-gallary" data-filter="fe">SFLS Festival & Event</button>
     </div>
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+
+        <div class="gallery_product filter Classroom">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+        </div>
+        <div class="gallery_product filter Classroom">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+        </div>
+        <div class="gallery_product filter Classroom">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+        </div>
+        <div class="gallery_product filter Classroom">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+
+
+        <div class="gallery_product filter sit">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+        </div>
+        <div class="gallery_product filter sit">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+        </div>
+        <div class="gallery_product filter sit">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+        </div>
+        <div class="gallery_product filter sit">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
+
+
+        <div class="gallery_product filter fe">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+        </div>
+        <div class="gallery_product filter fe">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+        </div>
+        <div class="gallery_product filter fe">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+        </div>
+        <div class="gallery_product filter fe">
+            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
         </div>
 
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
-        </div>
-
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
-        </div>
-
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
-        </div>
-
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
-        </div>
-
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
-        </div>
-
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
-        </div>
-
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
-        </div>
-
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
-        </div>
-
-        <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
-            <img src="http://fakeimg.pl/365x365/" class="img-responsive">
-        </div>
+        
     </div>
 </div>
 </div>
@@ -74,12 +71,9 @@
         $(".filter-button").click(function(){
             var value = $(this).attr('data-filter');
             if(value == "all"){
-                //$('.filter').removeClass('hidden');
                 $('.filter').show('1000');
             }
             else{
-                //$('.filter[filter-item="'+value+'"]').removeClass('hidden');
-                //$(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
                 $(".filter").not('.'+value).hide('3000');
                 $('.filter').filter('.'+value).show('3000');
             }
