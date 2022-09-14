@@ -38,3 +38,7 @@ Route::get('/aboutus', function () {
 Route::get('/gallary', function () {
     return view('gallary');
 });
+
+Route::get('/courses', function () {
+    return view('courses');
+});
