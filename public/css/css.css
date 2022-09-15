@@ -1,5 +1,5 @@
 .navbar{
-    background-color: #26587E;
+    background-color: #0F3057;
     width: 100%;
     height: 70px;
   }
@@ -12,7 +12,7 @@
 .footer{
     widows: 100%;
     height:350px;
-    background-color: #345B63;
+    background-color: #142F43;
     position: relative;
   }
   .footer_component h3{
@@ -36,7 +36,8 @@
 .whycs{
     width:100%;  
     /* Primary */
-    background: #FFBB00;
+    background: #E7E7DE;
+    
 }
 
 
@@ -50,11 +51,14 @@
 
 .card{
     margin:40px;
+    border-radius: 20px;
+    
 }
 
 .card img{
   height: 220px;
   width: auto;
+  border-radius: 20px;
 }
   
 .whycshd{
@@ -168,10 +172,10 @@
     font-family: cursive;
   font-style: normal;
   font-weight: 700;
-  font-size: 90px;
+  font-size: 100px;
   line-height: 108px;
   letter-spacing: 0.05em;
-  color: white;
+  color: #222831;
   margin-left: 5%;
   
 
@@ -378,5 +382,8 @@
   display: inline-flex;
 }
 
+.wcs_card{
+  background-color: #393E46;
+  color: white;
+}
 
-  

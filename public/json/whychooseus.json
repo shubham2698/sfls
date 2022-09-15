@@ -17,18 +17,18 @@
         },
         {
             "heading":"Mini Library",
-            "descp":"mini library",
-            "image":"/images/homepage/audvsr.png"
+            "descp":"Student-centric learning approach to learning is a much more recent development, placing emphasis on students’ participation in the educational process. This approach considers students to be not just objects but subjects of education as well, and the teacher’s role is viewed as not as that of the instructor but facilitator and delegator.",
+            "image":"/images/homepage/ml.jpg"
         },
         {
             "heading":"Personal Attention",
-            "descp":"personal",
-            "image":"/images/homepage/audvsr.png"
+            "descp":"Student-centric learning approach to learning is a much more recent development, placing emphasis on students’ participation in the educational process. This approach considers students to be not just objects but subjects of education as well, and the teacher’s role is viewed as not as that of the instructor but facilitator and delegator.",
+            "image":"/images/homepage/pa.jpg"
         },
         {
             "heading":"Lecture By Native Speakers",
-            "descp":"as",
-            "image":"/images/homepage/audvsr.png"
+            "descp":"Student-centric learning approach to learning is a much more recent development, placing emphasis on students’ participation in the educational process. This approach considers students to be not just objects but subjects of education as well, and the teacher’s role is viewed as not as that of the instructor but facilitator and delegator.",
+            "image":"/images/homepage/ns.jpg"
         }
     ]
 }
