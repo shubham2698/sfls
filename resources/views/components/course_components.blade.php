@@ -9,12 +9,25 @@
 @endsection
 
 @section('courses')
-<div class="card" style="width: 18rem;">
+@php
+$jsondata = file_get_contents("json/courselist.json");
+$courselist = json_decode($jsondata,true);
+$count = 0;
+@endphp
+@foreach($courselist as $value)
+<div class="row">
+@for ($i = 0; $i < 8; $i++)
+<div class="col">
+  <div class="card" style="width: 18rem;">
     <img src="..." class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
+      <h5 class="card-title">@php(print($value[$i]['title']))</h5>
       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
       <a href="#" class="btn btn-primary">Go somewhere</a>
     </div>
   </div>
+</div>
+@endfor
+</div>
+@endforeach
 @endsection
