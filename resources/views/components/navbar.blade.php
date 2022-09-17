@@ -22,9 +22,28 @@
               <li class="nav-item">
                 <a class="nav-link"  href="/contactus">Contact Us</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link"  href="/courses" >Courses</a>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Courses
+                </a>
+                <ul class="dropdown-menu">
+                  @php
+                  $jsondata = file_get_contents("json/courselist.json");
+                  $courselist = json_decode($jsondata,true);
+                  $count = 0;
+                  @endphp
+                  @foreach($courselist as $value)
+                  @for ($i = 0; $i < 8; $i++)
+                  <form method="get" action="/course_details">
+                    <input type="text" name="lang_name" value="{{ $value[$i]['title'] }}" hidden>
+                    <li><input type="submit" class="nav_tab_course" value="<?php print($value[$i]['title'])?>"/></li>
+                  </form>
+                    @endfor
+                    @endforeach
+                  
+                </ul>
               </li>
+      
               <li class="nav-item">
                 <a class="nav-link"  href="/aboutus">About Us</a>
               </li>
