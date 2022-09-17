@@ -387,5 +387,15 @@
   color: white;
 }
 
+.course_page_card{
+  width: 1080px;
+}
 
-
+.nav_tab_course{
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  text-align: center;
+  padding-left: 20px;
+  
+}
