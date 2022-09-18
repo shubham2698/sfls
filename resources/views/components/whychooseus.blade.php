@@ -24,4 +24,7 @@ $count = 0;
     </div>
 </div>
 @endforeach
+<br>
+<br>
+<br>
 @endsection
