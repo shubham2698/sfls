@@ -1,6 +1,6 @@
 @section('navbar')
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
-    <nav class="navbar navbar-expand-lg fixed-top navbar-dark ">
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light ">
         <div class="container-fluid ">
           <a class="navbar-brand" href="/" style="font-size: 24px;">Supriyaz Foreign Language Studio</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -36,7 +36,7 @@
                   @for ($i = 0; $i < 8; $i++)
                   <form method="get" action="/course_details">
                     <input type="text" name="lang_name" value="{{ $value[$i]['title'] }}" hidden>
-                    <li><input type="submit" class="nav_tab_course" value="<?php print($value[$i]['title'])?>"/></li>
+                    <li class="dropdown-item"><input type="submit" class="nav_tab_course" value="<?php print($value[$i]['title'])?>"/></li>
                   </form>
                     @endfor
                     @endforeach

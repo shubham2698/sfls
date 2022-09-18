@@ -1,5 +1,5 @@
 .navbar{
-    background-color: #0F3057;
+    background-color: #f5f5f7 ;
     width: 100%;
     height: 70px;
   }
@@ -12,7 +12,7 @@
 .footer{
     widows: 100%;
     height:350px;
-    background-color: #142F43;
+    background-color: #424245 ;
     position: relative;
   }
   .footer_component h3{
@@ -31,18 +31,23 @@
     color:white;
 }
 
+.footer_ul a{
+  text-decoration: none;
+  color: white;
+}
 
 
 .whycs{
     width:100%;  
-    /* Primary */
-    background: #E7E7DE;
-    
+   background-image: url("/images/whycsbg.png");    
+   background-size: cover;
+      
 }
 
 
 .carosel{
     position: relative;
+    background-size: cover;
   }
   .carosel img{
     height: 500px;
@@ -106,7 +111,7 @@
     padding-right: 5%;
   }
   .git{
-    background-color: #234B68;
+    background-color: #e6e6e6;
     height: 350px;
   }
 
@@ -114,11 +119,11 @@
       text-align: center;
       padding-top: 3%;
       font-size: 40px;
-      color: white;
+      color: #424245;
   }
 
 .git p{
-  color: white;
+  color: #424245;
   font-size: 20px;
   padding-top: 20px;
   text-align: center;
@@ -127,15 +132,17 @@
   .btn a{
     text-decoration: none;
     font-size: 17px;
-    border: 1px solid #3D7FFF;
     padding: 10px;
-    background-color: #3D7FFF;
-    color: white;
     border-radius: 90px;
+    border: 2px solid #f56300;
+    background-color: transparent;
+    color: #f56300;
   }
 
   .btn a:hover{
-
+    border: 2px solid #0066cc;
+    background-color: #0066cc;
+    color: whitesmoke;
   }
 
   .btn {
@@ -152,7 +159,7 @@
     margin-top: 70px;
     height: 200px;
     color: white;
-    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)),url("/images/Japanese.jpg");
+    background-image: url("/images/page_loc.jpg");
     background-size: cover;
 }
 
@@ -175,16 +182,18 @@
   font-size: 100px;
   line-height: 108px;
   letter-spacing: 0.05em;
-  color: #222831;
+  color: #424245;
   margin-left: 5%;
   
 
   }
   .hello{
     font-size: 150px;
+    color: #f5f5f7;
   }
   .hello-text{
-    font-size: 70px;
+    font-size: 90px;
+    font-family: "Goudy Old Style";
   }
 
 
@@ -199,9 +208,10 @@
 
   .clevel{
     margin-left: 10%;
-    background-color: #FFBB00;
+    background-color: #424245;
     padding: 10px;
     width: 62%;
+    color: white;
   }
 
   
@@ -383,8 +393,8 @@
 }
 
 .wcs_card{
-  background-color: #393E46;
-  color: white;
+  background-color: #e6e6e6;
+  color: #424245;
 }
 
 .course_page_card{
@@ -398,4 +408,9 @@
   text-align: center;
   padding-left: 20px;
   
+}
+
+.st_homepage{
+  font-size: 50px;
+  margin-bottom: 30px;
 }

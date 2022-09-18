@@ -23,6 +23,7 @@
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
 </head>
 <body>
+    <br>
     @yield('navbar')
     @yield('carousel-world')
     @yield('course_menu')

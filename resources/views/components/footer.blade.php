@@ -25,9 +25,9 @@
           <div class="col-sm footer_component">
               <h3>Useful Link</h3>
               <ul class="footer_ul">
-                  <li>Contact US</li>
-                  <li>Who We Are</li>
-                  <li>Gallary</li>
+                  <li><a href="/contactus">Contact US</a></li>
+                  <li><a href="/aboutus">Who We Are</a></li>
+                  <li><a href="/gallary">Gallary</a></li>
                   <li>Privacy Policy</li>
               </ul>
           </div>
