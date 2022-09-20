@@ -20,46 +20,46 @@
     </div>
 
         <div class="gallery_product filter Classroom">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/classroom1.jpg" class="img-responsive">
         </div>
         <div class="gallery_product filter Classroom">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/classroom2.jpg" class="img-responsive">
         </div>
         <div class="gallery_product filter Classroom">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/classroom3.jpg" class="img-responsive">
         </div>
         <div class="gallery_product filter Classroom">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/classroom4.jpg" class="img-responsive">
         </div>
 
 
 
         <div class="gallery_product filter sit">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/studytour1.jpg" class="img-responsive">
         </div>
         <div class="gallery_product filter sit">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/studytour2.jpg" class="img-responsive">
         </div>
         <div class="gallery_product filter sit">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/studytour3.jpg" class="img-responsive">
         </div>
         <div class="gallery_product filter sit">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/studytour4.jpg" class="img-responsive">
         </div>
 
 
 
         <div class="gallery_product filter fe">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/festival1.jpg" class="img-responsive">
         </div>
         <div class="gallery_product filter fe">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/festival2.jpg" class="img-responsive">
         </div>
         <div class="gallery_product filter fe">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/festival3.jpg" class="img-responsive">
         </div>
         <div class="gallery_product filter fe">
-            <img src="http://fakeimg.pl/425x365/" class="img-responsive">
+            <img src="/images/gallary/festival4.jpg" class="img-responsive">
         </div>
 
         
