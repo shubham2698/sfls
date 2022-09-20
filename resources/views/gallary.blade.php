@@ -31,7 +31,5 @@
     @yield('page_loc')
     @yield('gallary-style')
     @yield('footer')
-
-    
 </body>
 </html>

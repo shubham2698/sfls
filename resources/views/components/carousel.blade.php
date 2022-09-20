@@ -103,14 +103,14 @@
       <button type="button" data-bs-target="#carouselExample3" data-bs-slide-to="2" aria-label="Slide 3"></button>
     </div>
     <div class="carousel-inner">
-      <div class="carousel-item active">
+      <div class="carousel-item">
         <img src={{asset('images/tourfrance.jpg')}} class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h3>Internation Study Tour : France</h3>
           <p class="feedback_p">This Is Very Best Institute In My City. VEry Well Staff . Systematic Approch . Supportive Staff . You Can give First Priority To this institute.</p>
         </div>
       </div>
-      <div class="carousel-item">
+      <div class="carousel-item active">
         <img src={{asset('images/tourgermany.jpg')}} class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h3>Internation Study Tour : Germany</h3>

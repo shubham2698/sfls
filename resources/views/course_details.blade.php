@@ -2,6 +2,7 @@
 @include('components.footer')
 @include('components.course_detail_components')
 @include('components.carousel')
+@include('components.addon_course')
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,8 +44,9 @@
             <br>
         @yield('quicklinks')
         </div>
+        
     </div> 
-    
+    @yield('addon')
     @yield('footer')
 </body>
 </html>

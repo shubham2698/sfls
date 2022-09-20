@@ -21,20 +21,19 @@
   <table class="tab">
     <tr>
       <th class="highlight">Course Details</th>
-      <th class="highlight">Upcoming Batches</th>
     </tr>
   </table>
 </div>
   <table>
     <tr>
       <td>LEVEL</td>
-      <td>COURSE CONTENT</td>
+      <td >COURSE CONTENT</td>
       <td>HOURS</td>
     </tr>
     @foreach($coursedetails[session()->get('language')] as $value)
     <tr>
-      <td>@php(print($value['Level']))</td>
-      <td style="width:700px; text-align:left;" >@php(print($value['CourseContent']))</td>
+      <td style="width:200px;">@php(print($value['Level']))</td>
+      <td style="width:750px; text-align:left;" >@php(print($value['CourseContent']))</td>
       <td>@php(print($value['Hours']))</td>
     </tr>
     @endforeach
