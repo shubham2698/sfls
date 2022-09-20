@@ -14,11 +14,6 @@
               <li class="nav-item">
                 <a class="nav-link"  href="/gallary">Gallary</a>
               </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#">
-                  Services
-                </a>
-              </li>
               <li class="nav-item">
                 <a class="nav-link"  href="/contactus">Contact Us</a>
               </li>

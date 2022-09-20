@@ -42,6 +42,6 @@
     <option value="Evening">Evening</option>
   </select><br>
   How Do You Know About Us..?:<br><input type="text" name="hdyk" placeholder="LinkedIn , Facebook , Friend" required><br>
-  <input type="submit" id="cu_submit" value="Send Enquiry">
+  <input type="submit" id="cu_submit" value="Send Enquiry" onclick="return confirm('Thanks For Reach Us')">
 </form>
 @endsection
