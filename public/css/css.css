@@ -417,3 +417,13 @@
   font-size: 50px;
   margin-bottom: 30px;
 }
+
+.gallery_product img:hover{
+  transform: scale(1.2);
+  transition: .7s ease-in;
+}
+
+.gmenu{
+  margin-bottom: 50px;
+  
+}
