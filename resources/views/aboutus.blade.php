@@ -36,5 +36,7 @@
     </div>
     <img style="width: 100%;" src="/images/missionvision.png" alt="">
     @yield('footer')
+    
+    
 </body>
 </html>
